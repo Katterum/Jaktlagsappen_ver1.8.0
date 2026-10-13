@@ -1,0 +1,8 @@
+JAKTLAGET v1.8.0 - HTML-UPPDATERING UTAN PYTHON
+
+1. Behall din befintliga app.js och style.css fran version 1.7.8.
+2. Kopiera index.html, v180.js, v180.css och sw.js till samma mapp.
+3. Ersatt index.html och sw.js nar du far fragan.
+4. Publicera alla filer tillsammans.
+
+Ingen Python anvands. Befintliga data i localStorage bevaras.
